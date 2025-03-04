@@ -5,3 +5,18 @@ footer{
 	margin-top: 1em;
 	text-align: right;
 }
+
+[epub|type~="z3998:song"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:song"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:song"] p > span + br{
+	display: none;
+}
