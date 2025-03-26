@@ -61,11 +61,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n80056884</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">Bruno Liljefors</dc:contributor>
-		<meta property="file-as" refines="#artist">Liljefors, Bruno</meta>
-		<meta property="se:name.person.full-name" refines="#artist">Bruno Andreas Liljefors</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Bruno_Liljefors</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n81145857</meta>
+		<dc:contributor id="artist">Benjamin Marshall</dc:contributor>
+		<meta property="file-as" refines="#artist">Marshall, Benjamin</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Benjamin_Marshall_(painter)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/nr2004014378</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
@@ -73,8 +72,8 @@
 		<dc:contributor id="transcriber-2">Cindy Beyer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Beyer, Cindy</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">The Online Distributed Proofreaders Canada Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreaders Canada Team, The</meta>
+		<dc:contributor id="transcriber-3">Distributed Proofreaders CanadaTeam</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders Canada</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdpcanada.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
