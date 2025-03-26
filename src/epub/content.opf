@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-03-26T21:53:45Z</dc:date>
+		<meta property="dcterms:modified">2025-03-26T21:53:45Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,15 +43,18 @@
 		<meta id="collection-3" property="belongs-to-collection">Hawthornden Prize Winners</meta>
 		<meta property="collection-type" refines="#collection-3">series</meta>
 		<meta property="group-position" refines="#collection-3">10</meta>
-		<dc:description id="description">A boy comes of age in the idyllic years before the Great War.</dc:description>
+		<dc:description id="description">A young boy comes of age in the idyllic English countryside just before the Great War tears Europe apart.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;By the 1920s, &lt;a href="https://standardebooks.org/ebooks/siegfried-sassoon"&gt;Siegfried Sassoon&lt;/a&gt; had built a reputation as a poet and man of letters, though he had not yet published prose. It wasn’t until the end of the decade that he finally made the attempt with &lt;i&gt;Memoirs of a Foxhunting Man&lt;/i&gt;, the first volume of his fictionalized autobiography—and he was so nervous about the prospect of publishing prose that he published it anonymously.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/memoirs-of-george-sherston"&gt;George Sherston&lt;/a&gt;, the semi-autobiographical stand-in for Sassoon, is a young boy growing up in the English countryside under the gentle care of his aunt Evelyn. His youth is idyllic, and he spends many afternoons lazing in the verdant hedges and warm sunlight of Aunt Evelyn’s country home. But he soon becomes enamored with horses, racing, and hunting, and quickly finds himself a decidedly middle-class youth embedded in an aristocratic pastime.&lt;/p&gt;
+			&lt;p&gt;The first half of the novel is presented as a series of cozy and often comical vignettes. But as Europe teeters at the brink of the Great War, and then finally enters it, the novel’s tone shifts from nostalgic reminiscence to the stark brutality of one of the world’s bloodiest conflicts. George’s—and thus Sassoon’s—very English way of life was now changed forever.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Memoirs of a Foxhunting Man&lt;/i&gt; became an instant bestseller and sealed Sassoon’s growing reputation as one of England’s most important literary men of the war generation. It received several awards and was followed up by two sequels which completed Sassoon’s “autobiography.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20200205</dc:source>
 		<dc:source>https://archive.org/details/memoirsoffoxhunt0000sieg_u4c6</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">101200</meta>
+		<meta property="se:reading-ease.flesch">66.37</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Memoirs_of_a_Fox-Hunting_Man</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/siegfried-sassoon_memoirs-of-a-foxhunting-man</meta>
 		<dc:creator id="author">Siegfried Sassoon</dc:creator>
